@@ -2,6 +2,7 @@
 <html>
 <head>
   <!-- Standard Meta -->
+  <!-- N'oubliez pas d'inclure la librairie jQuery et Semantic UI dans votre projet -->
   
       <meta charset="utf-8" />
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
